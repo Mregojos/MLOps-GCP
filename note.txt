@@ -6,5 +6,28 @@
 Project:
 MLOps: 
     DevOps: Plan, Code, Build, Test, Release, Deploy, Operate, Monitor
-    
     MLOps: Plan -> Data -> EDA -> Feature Engineering -> Modeling -> Testing -> Push to Source Control -> Deploy -> Operate -> Monitoring
+        * Plan
+            Purpose
+            Goal
+            Framing
+         * Data
+             Data Source
+             Data Structure
+             Data Processing
+             Data Quality
+         * Exploratory Data Analysis
+             Descriptive Analysis
+         * Feature Engineering
+         * Modeling
+         * Testing
+         * Push to Source Control
+         * Deploy
+             Build
+             Deployment Strategy
+         * Operate
+         * Monitor
+             
+       
+             
+    
