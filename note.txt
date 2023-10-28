@@ -1,8 +1,9 @@
 Sample:
 1. Custom (End-to-End)
-2. BQML (End-to-End)
-3. Pipeline
-4. AI Services
+2. AutoML (End-to-End)
+3. BQML (End-to-End)
+4. Pipeline
+5. AI Services
 
 Project:
     MLOps: 
