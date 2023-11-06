@@ -40,6 +40,7 @@ Sample:
 
 Resources:
 * Github Repository: https://github.com/mregojos/MLOps-GCP
+* GitHub Repository Tech Stack for Data and ML Engineering: https://github.com/mregojos/tech-stack-data-ml
 * Google Cloud Documentation: https://cloud.google.com/docs
 * Google Cloud Vertex AI Notebooks: https://cloud.google.com/vertex-ai/
 * Google Cloud BigQuery ML: https://cloud.google.com/bigquery/
